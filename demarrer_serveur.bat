@@ -1,1 +1,1 @@
-powershell.exe ./php7/php.exe -S localhost:8080
+powershell.exe ./php_interpreter/php.exe -S localhost:8080
