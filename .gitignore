@@ -1,0 +1,5 @@
+# Fichier contenant les éléments que git doit ignorer
+.vscode/
+.idea/
+
+data/*
