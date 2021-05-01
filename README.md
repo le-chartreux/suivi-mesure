@@ -62,3 +62,4 @@ Le projet est constitué de 4 dossiers :
 ## Crédits
 - Nathan Rousseau, créateur du site
 - Page GitHub officielle : https://github.com/VMoM/suivi-mesure/
+- [php.net](https://www.php.net/), d'où est tirée le dossier `langage_php` dans la version Windows
